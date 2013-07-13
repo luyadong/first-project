@@ -1,4 +1,4 @@
 first-project
 =============
 hello
-first project
+First Project
